@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TipCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_600</item>
+        <item name="android:statusBarColor">@color/primary_900</item>
+    </style>
+
+    <style name="Theme.TipCalculator" parent="Base.Theme.TipCalculator" />
+
+    <style name="Title" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+</resources>

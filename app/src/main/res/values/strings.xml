@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="parrafo_tip">This is a tip percentage calculator, which will allow you
+        to divide the bill by the number of people at the table and select the
+  percentage you want togive to the waiter, being these percentages 10, 15 and 20."</string>
+
+    <string name="Titulo_welcome">Welcome to the tip calculator</string>
+</resources>
