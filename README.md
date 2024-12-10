@@ -6,8 +6,7 @@ This project is a native android application, developed in kotlin programming la
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/38ca070c-7725-4d7e-91f1-07ffa169b445" width=268> <img src=" " width=268> <img src=" " width=268> <img src="" width=268>
-
+<img src="https://github.com/user-attachments/assets/f7b3ccac-323c-4832-a708-92e41f064bf3" width=268> <img src="https://github.com/user-attachments/assets/94cad177-623a-4d1b-a17d-65993a5bc70d" width=268> <img src="https://github.com/user-attachments/assets/38ca070c-7725-4d7e-91f1-07ffa169b445" width=268>
 
 
 ## Tecnologias
